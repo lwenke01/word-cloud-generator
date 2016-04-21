@@ -34,11 +34,11 @@ Here is what the script changes the image output to:
 
 >Original image:
 
->![alt text](/Users/lisabisa25/desktop/elephant.jpg "pre-script")
+>![alt text](/data/images/elephant.jpg "pre-script")
 
 >Output Image:
 
->![alt text](/Users/lisabisa25/desktop/figure_1.png "post-script")
+>![alt text](/data/images/figure_1.png "post-script")
 
 ###Credit
 Stacie Mahuna (smahuna)
