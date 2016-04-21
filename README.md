@@ -16,7 +16,7 @@ pip install numpy
 ###Add Data and Image in Script
 ####Image:
 On line #10, change the path to an image:
->pipe_mask = np.array(Image.open(path.join("//Users/lisaw/desktop//", "elephant.jpg")))
+>pipe_mask = np.array(Image.open(path.join("/images/lisaw/desktop//", "elephant.jpg")))
 
 ####Text File:
 On line #14, add a path to the text file:
@@ -34,11 +34,11 @@ Here is what the script changes the image output to:
 
 >Original image:
 
->![alt text](/data/images/elephant.jpg "pre-script")
+>![original image](/images/elephant.jpg "pre-script")
 
 >Output Image:
 
->![alt text](/data/images/figure_1.png "post-script")
+>![image output](/images/figure_1.png "post-script")
 
 ###Credit
 Stacie Mahuna (smahuna)
