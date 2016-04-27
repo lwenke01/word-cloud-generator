@@ -40,5 +40,5 @@ Here is what the script changes the image output to:
 
 >![image output](/images/figure_1.png "post-script")
 
-###Credit
-Stacie Mahuna (smahuna)
+###Sources
+WordCloud Github: https://github.com/amueller/word_cloud
