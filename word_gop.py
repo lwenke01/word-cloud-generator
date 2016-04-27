@@ -7,17 +7,17 @@ from PIL import Image
 
 
 #read in image and its colors - this is optional in case you want to make the word cloud conform to a specific shape
-pipe_mask = np.array(Image.open(path.join("//Users/lisabisa25/desktop/", "guit.png")))
+pipe_mask = np.array(Image.open(path.join("//Users/lisabisa25/desktop/word_cloud/", "elephant.jpg")))
 image_colors = ImageColorGenerator(pipe_mask)
 
 # Read in the whole text
-text = open(path.join('//Users/lisabisa25/desktop/word_cloud/prince.txt')).read()
+text = open(path.join('//Users/lisabisa25/desktop/word_cloud/GOP_transcripts.txt')).read()
 
 #generate word cloud and set specifications - font type, stop words, background, height/width, and set the shape of the word cloud to conform to your picture
 wordcloud_final = WordCloud(
-    # font_path='//Users/lisabisa25/desktop/word_cloud/roboto-regular-webfont.ttf',
-    stopwords=STOPWORDS,
-    # background_color='purple',
+    # font_path='C:\\Windows\\Fonts\\cour.ttf',
+    stopwords=STOPWORDS.add("P"),
+    background_color='white',
     width=1800,
     height=1400,
     mask=pipe_mask
