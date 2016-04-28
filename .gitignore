@@ -1,9 +1,3 @@
 oauth_info.py
 oauth_info.pyc
-_twitter
-word_amend_reg.py
-word_dem_reg.py
-word_gop.py
-word_dem.py
-word_gop_reg.py
-word_reg.py
+tests

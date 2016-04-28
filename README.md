@@ -42,3 +42,4 @@ Here is what the script changes the image output to:
 
 ###Sources
 WordCloud Github: https://github.com/amueller/word_cloud
+TwitterBot: http://sebastianraschka.com/Articles/2014_twitter_wordcloud.html

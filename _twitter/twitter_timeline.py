@@ -26,6 +26,7 @@ class TimelineMiner(object):
         self.consumer_secret = consumer_secret
         self.user_name = user_name
         self.auth = None
+        self.screen_name = 'realDonaldTrump'
         self.df = pd.DataFrame(columns=['timestamp', 'tweet'], dtype='str')
 
 
@@ -40,12 +41,12 @@ class TimelineMiner(object):
         if keywords:
             self.df['keywords'] = ''
         tweet_ids = [self.auth.statuses.user_timeline(
-                user_id='realDonaldTrump', count=1
+                screen_name=self.screen_name, count=1
                 )[0]['id']] # the ID of my last tweet
         last_count = 200
         counter = 0
         while last_count == 200:
-            timeline = self.auth.statuses.user_timeline(user_id='realDonaldTrump', count=200, max_id=tweet_ids[-1])
+            timeline = self.auth.statuses.user_timeline(screen_name=self.screen_name, count=200, max_id=tweet_ids[-1])
             for tweet in range(len(timeline)):
 
                 text = timeline[tweet]['text'].replace('"', '\'')
