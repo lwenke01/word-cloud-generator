@@ -8,7 +8,6 @@ from PIL import Image
 
 
 #read in image and its colors - this is optional in case you want to make the word cloud conform to a specific shape
-# pipe_mask = np.array(Image.open(path.join("//Users/lisabisa25/desktop/word_cloud/", "new1.jpg")))
 pipe_mask = np.array(Image.open(path.join("./_twitter/", "twitter_mask.png")))
 image_colors = ImageColorGenerator(pipe_mask)
 
@@ -19,7 +18,6 @@ text = open(path.join('./_twitter/output.csv')).read()
 stopwordsfile = open(path.join('./_twitter/stopwords.txt')).read()
 #generate word cloud and set specifications - font type, stop words, background, height/width, and set the shape of the word cloud to conform to your picture
 wordcloud_final = WordCloud(
-    font_path='//Users/lisabisa25/desktop/word_cloud/roboto-regular-webfont.ttf',
     stopwords = stopwordsfile,
     background_color='white',
     width=1800,

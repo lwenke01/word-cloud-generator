@@ -26,7 +26,7 @@ class TimelineMiner(object):
         self.consumer_secret = consumer_secret
         self.user_name = user_name
         self.auth = None
-        self.screen_name = 'guerrahugoa'
+        self.screen_name = 'xxnatc'
         self.df = pd.DataFrame(columns=['timestamp', 'tweet'], dtype='str')
 
 

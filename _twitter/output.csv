@@ -1,76 +1,439 @@
 ,timestamp,tweet
-0,2016-28-04 15:03:00,"RT @toddmotto: iTerm tip, press CMD + click on the web address to launch in the browser. https://t.co/4ETfXvBnrP"
-1,2016-26-04 15:06:37,"@_ericelliott: 10 Interview Questions Every JavaScript Developer Should Know
-https://t.co/6pebhbN3Xh #startup #JavaScript"
-2,2016-26-04 14:51:32,"RT @keiran_s: OH : 'I am a full stack overflow developer' 
-Comedy gold from @QuinnyPig"
-3,2016-25-04 15:00:54,"RT @christianmaioli: A timeless argument
+0,2016-25-04 03:01:29,My portfolio site is finally up and running: https://t.co/q130FptY9x. Still plenty to add but let me know what you think!
+1,2016-24-04 17:14:05,Tiny PMS Match is my new favorite instagram account. #colornerd https://t.co/vdtVySbbwb https://t.co/6mSOPoztfj
+2,2016-19-04 03:31:58,Programming is art. And here are some programmers in classical art: https://t.co/gbbheEQGjA
+3,2016-19-04 00:58:31,My business cards finally arrived! https://t.co/7RZ5yQVM28
+4,2016-18-04 05:14:14,I'm incredibly proud of what we put together in 24 hours. https://t.co/YgxZGpoaiX
+5,2016-18-04 02:10:46,@marythought @codefellows @CodeFellowsSEA Thanks Mary! It was a fun weekend
+6,2016-18-04 01:58:26,Unreal. https://t.co/WkTJn211lp
+7,2016-18-04 01:33:36,"Posing away at @AngelHack #Seattle #AH9. The weekend went by in the blink of an eye.
+Photo: @maychief https://t.co/CxD4ZHnOP6"
+8,2016-17-04 20:18:01,"Hackathons are hard work.
+@HavenOnDemand #HavenOnDemand @AngelHack #AH9 #Seattle https://t.co/PAySeDREL7"
+9,2016-17-04 09:28:21,"Hour 14 of @AngelHack #Seattle: Not tired enough to go to sleep, not alert enough to code efficiently. #hackathon #coderlife #AH9"
+10,2016-15-04 20:35:06,I can't believe @AngelHack #Seattle is tomorrow! So excited to attend my first hackathon ever!
+11,2016-14-04 16:36:00,"Just realized Google has updated the Chrome Dev Tools, especially loving the mobile/tablet device mode!"
+12,2016-14-04 04:13:20,Learning @Ionicframework from @JoshuaHutt at the Seattle Angular/Ionic meetup. Great fun! https://t.co/L0msfBuki8
+13,2016-14-04 00:45:37,Battery lives on my laptop and phone are heading to opposite extremes. Laptop barely lasts 1.5 hr but phone can survive the day w/ 80% left.
+14,2016-13-04 21:55:48,I spy a @Shields_io style update on GitHub and npm https://t.co/NHdR8cvsMZ
+15,2016-12-04 02:04:33,Can't believe it's been a whole month since we presented our final project (https://t.co/LxXEqQNpKu). It feels just like yesterday...
+16,2016-12-04 01:51:54,I geeked out so much watching this video. My inner math sense is tingling. https://t.co/ivQIQwdCvk
+17,2016-11-04 18:28:26,How did I not know about #FormulaDrift until now?!
+18,2016-01-04 17:14:00,"Sure, blame it on the 'bug'. Google's 'mic drop' Gmail joke backfires: https://t.co/W7PMZGrL3m"
+19,2016-01-04 15:51:52,My first reaction when a website isn't responding: Ctrl + Shift  + I then check the network tab
+20,2016-31-03 16:02:40,Saw a SmartCar this morning with the license plate 'CAR2-D2'
+21,2016-30-03 02:49:42,How an 11-line npm package broke the internet last week and who is to blame: https://t.co/oakZDcHvdb via @qz
+22,2016-24-03 21:35:30,"RT @geekwire: Here is the location of Google’s future campus in Seattle, just announced today. https://t.co/lHWnmKyXSl https://t.co/OnT0Tdd…"
+23,2016-24-03 06:56:36,"Awesome #TypeScript intro &amp; #Angular2 demo at the ng Seattle tonight, ft. @bowdenk7 in ng onesie @typescriptlang https://t.co/5mcvzWLM57"
+24,2016-23-03 01:50:58,"@rickyftw @EliotETC #ManInTree for #weeklyweirdnews! Watch him live at https://t.co/r66StXLh8W, news story at https://t.co/7IdhlLUXSF"
+25,2016-23-03 01:41:19,RT @AuzSantiago: 2016's hottest Halloween costume? #ManInTree https://t.co/J7WkoejwTG
+26,2016-23-03 01:41:03,"Heard about him before noon. But more than 7 hours later, #ManInTree is still in the 80-foot tree."
+27,2016-22-03 01:07:32,What goes up must come down... Including screen sizes
+28,2016-21-03 23:19:48,"Also, balloons on @twitter's profile page! #LoveTwitter https://t.co/G47fwzKA70"
+29,2016-21-03 23:08:10,"Influencing how the world consumes media, 140 characters at a time. #LoveTwitter"
+30,2016-21-03 04:49:23,#Daredevil has done it again! That awesome 4-min hallway/stairwell fight scene of DD taking down 20 guys in one shot at the end of ep. 3!
+31,2016-20-03 00:43:19,"RT @jordanbstead: So, this @UW #ULink2016 station is gorgeous. Nice work, @SoundTransit... #Seattle #ULink https://t.co/yB1SRPIg7e"
+32,2016-19-03 23:31:53,RT @bbcdoctorwho: #DoctorWho https://t.co/Wy1FLaFvoA
+33,2016-19-03 20:26:44,#VFX breakdown for the highway scene in @deadpoolmovie: https://t.co/QJljVRr4VN
+34,2016-18-03 06:27:39,Learned a great deal today at the @CyberHiveSD Seattle #IoT meetup! https://t.co/sE0H5nW6Up
+35,2016-18-03 06:24:28,RT @Marvel: Live from @netflix HQ--just 45 mins to go! #Daredevil https://t.co/87vEEuPd2X
+36,2016-17-03 19:39:56,Just stumbled upon @_deardata. Fascinating project that takes data visualization to another level! https://t.co/cJ2nGS0cKR #dataviz
+37,2016-16-03 19:15:59,Free beta version of @MacAffinity coming to Windows! https://t.co/8xAOJpPyq1
+38,2016-15-03 05:00:09,Happy Rounded Pi Day! #PiDay2016
+39,2016-13-03 22:18:34,"A dev cannot live without electricity (laptop &amp; WiFi). Seeing the outage won't be fixed anytime soon, I'll try to read a book or something.."
+40,2016-12-03 17:29:22,"The phrase that came up most often during project week was '_____ doesn't work, but here's a hacky way of doing it...' #coderlife"
+41,2016-11-03 22:55:28,Can't believe 10 weeks went by so quickly... https://t.co/XR1V8KAL8n
+42,2016-11-03 21:14:09,Just presented our final project! Check out Alfred the Mirror here: https://t.co/LxXEqR5194
+43,2016-11-03 06:03:53,"Last day of project week: after 12 straight hrs of coding, we're debating if we should stay up late tonight or meet up super early tomorrow."
+44,2016-09-03 18:14:22,This is something you don't see everyday. https://t.co/2CdjsUm52W
+45,2016-09-03 02:22:18,@CaptainStack We started from scratch. This is a good reference: https://t.co/MeoVUZt7ii. Annyang's the library we used for voice control.
+46,2016-09-03 02:09:25,Spend the entire day coding voice controls for a #RaspberryPi-powered smart mirror. It's been fun (except for debugging hardware problems)
+47,2016-05-03 02:01:10,"Just brainstormed logo concepts with a classmate, and we both had practically the same draft! Design telepathy FTW 😎"
+48,2016-02-03 20:06:31,'What's it like to be a web developer' - describes perfectly the process I'm going through right now https://t.co/l1q3DhSrqw
+49,2016-02-03 18:14:11,The ultimate social media cheatsheet from @BlastYourBlog: https://t.co/XZ1QHloqMJ
+50,2016-01-03 21:28:20,The building next to us is being demolished while I'm trying very hard to focus in class.
+51,2016-01-03 06:45:06,A 20-min segment followed by the grandest exit of them all! @LastWeekTonight #MakeDonaldDrumpfAgain https://t.co/jkcVl4vnPz
+52,2016-27-02 00:03:51,"The designer's neighborhood guide @OnTheGridCity, curated amazing creatives: https://t.co/ZrM0StqFwd https://t.co/d9ws5Gbzr1"
+53,2016-26-02 23:47:20,This is me giving a lightning talk about #JavaScript's floating point problem in my 401 JS class @CodeFellowsSEA https://t.co/h41VIOlxst
+54,2016-26-02 07:51:14,Just realized @LinkedIn's mobile app UI is so much better designed than its web UI. I'd use web version more often if it's as user friendly.
+55,2016-26-02 07:31:59,Met quite a few inspiring folks at @AIGASeattle schmooze tonight at @OptimismBrewing. Looking forward to the #changemaker2016 series!
+56,2016-19-02 00:16:44,"RT @mymodernmet: Magical long-exposure shots of fireflies in the forests of Nagoya City, Japan https://t.co/lOt2LkOWBY https://t.co/pHTGa48…"
+57,2016-17-02 18:03:57,New NASA Travel Posters Will Make You Want to Explore The Galaxies https://t.co/3k2kr8hYAY
+58,2016-17-02 01:23:47,“Punctuation in novels” by @neuroecology https://t.co/t48tNW59kR
+59,2016-16-02 06:25:06,"RT @billythebutcher: Butcher Billy Changes Bowie | The Complete Series GIF
+https://t.co/QOnOVhWy32 https://t.co/B0nA0tyDMr"
+60,2016-08-02 03:19:03,White jersey wins again #SB50
+61,2016-08-02 02:58:47,RT @ScottNiswander: Had to make a GIF of this moment. It's amazing! https://t.co/0Blhc8WKcq
+62,2016-08-02 02:58:30,So hyped for #CaptainAmericaCivilWar after watching the #SB50 TV spot! https://t.co/ynX4yY6yJS
+63,2016-06-02 00:50:38,"@erikawh0 Thanks Erika! Notify looks amazing, excellent job on the presentation today!"
+64,2016-06-02 00:12:53,"Just presented our @CodeFellowsSEA project! 'Saphero', a dashboard app for controlling @Sphero powered by #Node.js: https://t.co/rIZdi4Uv3V"
+65,2016-05-02 20:15:04,Excellent starting point for using the Mozilla Gamepad API by @smashingmag: https://t.co/7NADYXyipW
+66,2016-05-02 00:26:48,Of course npm went down the minute we try to publish our project...
+67,2016-04-02 04:44:19,"Sneak peak at our current project!
+Illustrations inspired by @JustasDesign's Star Wars icon set. https://t.co/DA7PEd8nSP"
+68,2016-29-01 07:11:17,I'm quite obsessed with the teal you see https://t.co/fTXJoq4cAz
+69,2016-29-01 04:50:36,'A movie based on a comic book? Sounds like a dreadful idea.' - this week's @AgentCarterTV
+70,2016-28-01 06:36:01,@spherodev When will you guys publish the instructions for connecting Windows to BB-8/Ollie?
+71,2016-26-01 19:56:53,OMG the stare flare song is back! https://t.co/AbV7yFHUh0 @screenjunkies #HonestTrailers
+72,2016-26-01 01:24:05,#designerrants
+73,2016-26-01 01:21:32,Letter spacing and line spacing apparently got thrown out the window. (#BatmanvSuperman trailer end credits) https://t.co/dUPFVTQuAH
+74,2016-24-01 17:37:39,"Woke up to a redesign of Google's weather page. Loving the details, full screen results, &amp; subtle weather icons. https://t.co/YVGyVIBDQG"
+75,2016-24-01 07:32:10,Is it just me or does #LegendsOfTomorrow's title card looks an awful lot like that of the #Avengers?
+76,2016-24-01 00:45:42,@ScottNiswander 'True wisdom is knowing what you don't know' &amp; the vastness of knowledge out there &amp; the fact that you'll never learn it all
+77,2016-23-01 19:20:39,Just saw the #Deadpool Australia Day teaser and laughed like an idiot. @deadpoolmovie's marketing campaign is the best.
+78,2016-21-01 06:43:53,@mrsundaymovies I love how you lip-synced yourself to Kevin Smith saying 'Suicide Squad' in your #SuicideSquad easter eggs video.
+79,2016-21-01 01:43:39,My first node framework is live on npm with v1.0.0! https://t.co/jTN1P5PlpT
+80,2016-20-01 19:59:46,Bus left the terminal 8 minutes late because the driver had to finish her burrito.
+81,2016-18-01 03:13:28,Beautiful team logo illustrations on @SBNation's NFL bracket page: https://t.co/pOApY7Ut5u
+82,2016-17-01 19:23:23,RT @prattprattpratt: I've witnessed miracles before. Let's go #12s!
+83,2016-17-01 19:23:15,RT @prattprattpratt: #HAWKRALLY#HAWKRALLY #HAWKRALLY#HAWKRALLY
+84,2016-16-01 00:54:11,Guilty as charged. #frontend #webdev https://t.co/FdbJkpHtoK
+85,2016-15-01 21:38:10,RT @PTXofficial: When you realize it's Friday... 🎉 https://t.co/LyV9pHziv8
+86,2016-15-01 21:25:03,I've had too much caffeine this morning that I need a nap. Now.
+87,2016-14-01 22:08:48,Three logos in six years? Poor Bing is suffering from a serious and ongoing identity crisis. https://t.co/kmkneSt7px
+88,2016-14-01 17:28:14,RT @pattonoswalt: This idiotic/brilliant billboard is why I'm all in on the DEADPOOL movie. I'm an easy lay. https://t.co/jSRorPvaCp
+89,2016-14-01 06:32:11,"I am a night person alright. 
+And @todoist serves as my proof. #Todoist #YearInReview https://t.co/luLxhAX9Hi"
+90,2016-13-01 01:14:51,Because @PTXofficial is too good. #Spotify #YearInMusic https://t.co/iKOSNKVO4v
+91,2016-09-01 04:02:45,Just realized there's a full version of my fav @theVoicePlay arrangement! Been hooked since musical ACA Top 10: https://t.co/HZ3CehjsyV
+92,2016-05-01 20:34:56,"RT @pattonoswalt: Top 3 must-see 2016 films:
+1. HUMAN CENTIPEDE IV: POLYPHONIC SPREE
+2. BLACK JAWS
+3. TREK WARS: FURIOUS POTTER AND THE HUN…"
+93,2016-01-01 22:38:20,"#Sherlock Christmas special is a great setup for another season, but season four is still at least A YEAR AWAY!"
+94,2016-01-01 22:36:50,Oooh all the twists and turns in the #Sherlock Christmas special! Now the writers are just having fun.
+95,2015-30-12 06:47:31,Survived project final/presentation day with no internet. I think we all deserve a pat on the back.
+96,2015-25-12 18:32:52,@rickyftw @MachinimaETC What an opening speech! #TUGGIES
+97,2015-25-12 18:26:20,"#Deadpool X'mas trailer shows you how much fun you could have when your character breaks the 4th wall, even within the trailer itself."
+98,2015-25-12 18:19:53,Hang on while I watch the #DeadpoolTrailer on loop.
+99,2015-23-12 07:49:13,Can you tell what I've been having trouble with today? https://t.co/Oo77rW22tt
+100,2015-21-12 01:20:49,"Harry Potter narrated in Stanley Parable style, from Hermione's perspective. #BossWitch  https://t.co/B4kO20XUWK"
+101,2015-19-12 06:55:06,400 GitHub contributions since I started my account 3 months ago. I'm feeling more and more like a developer. https://t.co/UrP6ddgSJI
+102,2015-18-12 15:08:08,"RT @smashingmag: So what have you missed this week? An overview by @helloanselm at
+https://t.co/gzO7xNqD8u"
+103,2015-18-12 14:50:39,RT @ricardgracia: Static is the new interactive https://t.co/jUCiVE8Qk0 via @NiemanLab
+104,2015-17-12 19:03:08,Internet spoilers aren't that bad for #StarWarsTheForceAwakens compared to #AgeOfUltron this summer. https://t.co/e2F1jHPtNP
+105,2015-17-12 14:38:40,The master of subtle Star Wars puns https://t.co/rR634I2lyV @EliotETC @rickyftw
+106,2015-16-12 23:41:25,Talked about all the upcoming comic book movies in lab today. The geek in me literally CAN'T EVEN #landofgeeks
+107,2015-16-12 23:30:11,"RT @smashingmag: Useful Flexbox design patterns.
 
-#devhumor #programming https://t.co/Sw2oWZuldQ"
-4,2016-22-04 15:27:11,Python Creator Guido van Rossum on How He Got His Start in Programming – Tech Rocket - https://t.co/dzDldYgCkZ #python #py #programming
-5,2016-21-04 15:10:00,"RT @binitamshah: How I Hacked Facebook, and Found Someone's Backdoor Script : https://t.co/H8j1UUVkoJ"
-6,2016-21-04 01:20:51,"RT @Paul_Reviews: A linux sysadmin walks into a pharmacy.
+https://t.co/NYW79MaKtV
+https://t.co/mGBiEMr5Pf
+https://t.co/KILgWJ2Adt"
+108,2015-14-12 20:55:47,This is extremely satisfying to look at. #github #commits https://t.co/Ni0rvcPApx
+109,2015-11-12 03:18:44,"#TMNT2 trailer reaction:
+(0:20) 'Hmm those droids look so Transformer...'
+(0:57) *FROM PRODUCER MICHAEL BAY*
+'Oh right, I forgot about that'"
+110,2015-30-11 16:58:55,It's finally here. I am feeling irritated by the overuse of Bebas (and Bebas Neue).
+111,2015-24-11 02:40:32,RT @GameOfThrones: APRIL. #GoTSeason6 #GameOfThrones https://t.co/DSK2xZi9i9
+112,2015-21-11 01:43:41,Loving the theatrical lighting of #JessicaJones.
+113,2015-21-11 00:25:55,RT @Elementary_CBS: Have to love the classics. #Elementary https://t.co/QmU1kGmPSe
+114,2015-10-11 20:24:21,The cast for the live-action 'Beauty and the Beast' is too dreamy https://t.co/LUueErPFQh
+115,2015-05-11 06:30:18,Power video about perception and POV: 'THE LAB: DECOY - A portrait session with a twist' https://t.co/5TRWA0VsCY
+116,2015-15-10 17:03:23,I'm giggling like a teenager. Java vs. JavaScript: http://t.co/xXTIcPjJR1
+117,2015-09-10 17:21:40,RT @JeremyClarkson: We're going to need a faster helicopter. http://t.co/dyVTv4M1t1
+118,2015-08-10 03:31:42,"The new #Sherlock trailer showcases some beautiful cinematography, and characters brilliantly poking fun of themselves. I'm so exciteddddddd"
+119,2015-07-10 23:23:32,Verdict of the day: I despise #CSS.
+120,2015-04-10 03:58:34,Today I must have looped Downtown by Macklemore &amp; Ryan Lewis 100 times... Eric Nally's voice is incredible!
+121,2015-04-10 03:55:18,RT @andygrunwald: In case of fire ... #Git #Commit http://t.co/uasZWQ8R8A
+122,2015-19-09 23:07:02,A mile-long motorcycle group just furiously rode down my street. Right now my apartment smells like gasoline.
+123,2015-23-08 22:49:34,RT @AccuWxBeck: Pretty unbelievable map of current wildfire conditions &amp; the extent of smoke &amp; haze across the US. #wildfires #smoke http:/…
+124,2015-08-08 03:00:16,Here's my new favorite gif. Also watch this philosophical discussion from @hankgreen: https://t.co/jyNzHVeWbj http://t.co/Ciaqi7lxVA
+125,2015-04-08 03:11:04,Favorite part of the #Zoolander2 trailer: http://t.co/Nvy6q51L6E
+126,2015-04-08 00:59:26,Sneaky #Youtube UI updates...
+127,2015-21-07 21:10:20,And they couldn't decide which side of the road to drive on.
+128,2015-21-07 21:09:31,@cinemasins I didn't notice this before but the middle lanes literally reads 'here here'. http://t.co/HdSFGPSmLD
+129,2015-06-07 21:32:53,Now this is a movie I'd line up overnight for. https://t.co/k6p8QT0lsr
+130,2015-30-06 19:55:14,RT @paulfeig: #whatyougonnawear http://t.co/o5oyHeIaSx
+131,2015-29-06 07:55:56,I might have already spent a good 15 minutes there... https://t.co/Y24XHcpROD
+132,2015-29-06 04:44:21,"This is so great! 
+Shia LeBeouf drawn as all 13 Doctors: http://t.co/BgTN6MUhDk #DoctorWho http://t.co/jubdlmOm4Q"
+133,2015-08-06 06:28:48,"RT @JurassicPark: Time to put those running skills to the test, @RSherman_25! #JurassicWorld crashes into theaters this Friday! @ESPN
+https…"
+134,2015-08-06 06:25:30,The solution is #Netflix. The solution is always Netflix. Hammond and May to launch new show with Clarkson: http://t.co/TgL5dNjSth
+135,2015-04-06 08:35:59,@edewberry http://t.co/rqcfdftRBU
+136,2015-31-05 19:09:35,And @playdots can I just say this is a beautiful UI update? http://t.co/Qmprh0w9bC
+137,2015-31-05 19:08:12,I think it took me a hundred times to get through this #TwoDots level. http://t.co/IPA3xjFph8
+138,2015-29-05 03:55:58,"RT @kingcosoPIO: Officer involved shooting in Seatac, started as a stolen vehicle recovery, pursuit occurs, suspect shoots at deputies who …"
+139,2015-26-05 21:37:38,There are no words I could use to explain how impressed I am by the performance of 12-year-old Raffey Cassidy in #Tomorrowland.
+140,2015-23-05 05:07:17,Technically it's right shark (stage right). No one addresses performers from the house perspective. #bugsmeeverytime https://t.co/OzbNyBPwoA
+141,2015-22-05 04:12:07,135 years of climate change data presented in a string quartet arrangement. Haunting but beautiful. https://t.co/6zoHUtp5fz
+142,2015-21-05 07:10:38,Is it just me or did @YouTube just secretly changed some font weights again?
+143,2015-14-05 05:14:55,"In the last min of the episode, #ArrowSeasonFinale flips its tone for the most cliché romantic ending. I'd love it more if that was cut out."
+144,2015-14-05 04:40:04,'That is remarkably ruthless and cold-blooded. I approve.' #ArrowSeasonFinale
+145,2015-14-05 00:31:01,I'm temporarily removing myself from Twitter to avoid all #ArrowSeasonFinale spoilers.
+146,2015-14-05 00:29:47,I have mixed feelings about the #Supergirl trailer: It's too 'The Devil Wears Prada' and too... Ordinary. https://t.co/J52256SpTs
+147,2015-12-05 00:22:48,RT @infobeautiful: Guardians of the Galaxy on-screen #infographics by @territorystudio http://t.co/w9o2nyXF8w http://t.co/TwGJ2aOvm2
+148,2015-06-05 06:02:48,@JoeVeyera Make it a series with all the previous variations
+149,2015-05-05 18:38:59,RT @Marvel: Martin Freeman joins Marvel's #CaptainAmerica #CivilWar! Learn more: http://t.co/R6eCsjwaXX
+150,2015-02-05 09:19:24,I'm extremely worried about these sirens. http://t.co/OAVmKs7U0l
+151,2015-30-04 22:17:49,The only appropriate fan response after Sony announced yet another Peter Parker Spider-man reboot. https://t.co/DFfG8H3gDl
+152,2015-30-04 06:26:08,@thucnhi21 Math department unite!
+153,2015-24-04 18:51:19,What's with announcing sequels so quickly after (or even before) movie releases?
+154,2015-23-04 18:01:39,RT @inspiration_hut: #Lettering Project: 'Brand by Hand' by Sara Marshall http://t.co/7ZjnWolg5V @BurgerKing #typography #handlettering htt…
+155,2015-20-04 23:46:57,I already knew what a huge fan I'd be for the #AgentsofSHIELD spinoff starring Hunter and Mockingbird. Can't wait! http://t.co/6CfidhEXHL
+156,2015-18-04 04:03:14,"Batman v Superman: Gotham overload
 
-'ephedrine?'
-'I can't serve you that.'
-'sudoephedrine'
-'There you go'"
-7,2016-19-04 14:57:20,System Design Cheatsheet - https://t.co/flOZWF3dkR
-8,2016-19-04 14:55:49,Universal Install Script by XKCD – Combat test - https://t.co/NARqlW5abq #xkcd #bash #script
-9,2016-13-04 15:07:27,"RT @segdeha: Great thread on junior devs and bootcamps, starting with this tweet. https://t.co/AlYvyVcZnb"
-10,2016-13-04 15:03:01,RT @lydiaguarino: 2) You get at least two skill sets when you hire a boot camper. Their new found tech skills and the skill set they honed…
-11,2016-12-04 23:50:05,RT @_ericelliott: 10 Habits of Happy Node Developers https://t.co/upb5mZKbpY #Nodejs #JavaScript
-12,2016-08-04 14:53:54,@dev_mcfly welcome back to the twitterverse.
-13,2016-06-04 14:49:28,"RT @normative: Note: WhatsApp made its crypto announcement today, but pushed out the client update last Friday. https://t.co/NtsnE7Iebn"
-14,2016-05-04 14:55:59,RT @CaseyNewton: Brutal Nest assessment from a person who says they're an engineer there  https://t.co/vCqTo8XDCC https://t.co/gLuPqKrmb3
-15,2016-04-04 15:52:47,@codefellows I wonder if CSS will ever be banned for the same reason #css #devjokes
-16,2016-04-04 15:50:48,RT @binitamshah: MIT turns Wi-Fi Into Indoor GPS : https://t.co/UXTnsibFWD
-17,2016-04-04 15:47:57,"RT @_ericelliott: It's past time to learn ES6. Get on it.
-https://t.co/5lN1Gi2mYy #ES6 #JavaScript"
-18,2016-01-04 22:07:29,"RT @jasongowans: If you're a web dev, this is worth paying attention to. https://t.co/zOta9KdP7v"
-19,2016-01-04 20:19:35,RT @goldirises: Happy Friday from @trending__tunes #FridayFeeling https://t.co/y9nGoFS5MH
-20,2016-01-04 00:36:33,"RT @aedison: I thought it was weird that my girlfriend has a statistics fetish, but she insists it's a standard deviation."
-21,2016-31-03 14:32:32,This should never happen - https://t.co/RFsY4ZMekZ #git #github #code
-22,2016-31-03 00:21:50,"RT @JS_Cheerleader: Your pay is determined by your ability to communicate your experience, your knowledge, and your coding skills in short…"
-23,2016-30-03 15:15:13,Changes to npm publish policy - https://t.co/hFUFGuIy3c #npm #NodeJS #node #JavaScript
-24,2016-30-03 15:13:35,Babel's dependency network - https://t.co/Ze0FteNzlm #JavaScript #babel #omg #npm #NodeJS #node
-25,2016-30-03 15:05:15,RT @horse_js: npm search should have ads
-26,2016-30-03 15:05:02,"RT @crisewing: Woot woot!  That’s one of my teams on TUESDAY of project week! https://t.co/FbyJ81vSmM
+...Get it? The typeface? #BatmanVSupermanTrailer: https://t.co/ygt3JtRSbr"
+157,2015-16-04 02:29:38,#BrokenArrow  https://t.co/gz4JdebIj5
+158,2015-16-04 02:28:54,Next week: Lazarus Pit! https://t.co/xjOgp0sZTc
+159,2015-16-04 02:26:41,"Tonight, #Arrow: A Death in the Family"
+160,2015-14-04 05:40:52,"'Kamikaze Airways' 
+RT @AmericanFilm: Happy Monday! 
+From the set of Superman (1978) http://t.co/DDElM8GO37"
+161,2015-12-04 02:01:42,"I'm impressed how #Daredevil uses light to paint vibrant colors. This is my fav shot: yellow, red, blue, &amp; green. http://t.co/t8l32A2mOu"
+162,2015-12-04 00:02:19,Aw yes! The red suit! #Daredevil http://t.co/WxDvH3KiCq
+163,2015-11-04 03:01:11,I couldn't decide if it's refreshing or frightening to see such extent of violence in a TV show... #Daredevil
+164,2015-11-04 00:57:31,Second episode of #Daredevil ends with this amazing 5-minute long one-shot. Great fight choreography too. http://t.co/5mHP9rBjBc
+165,2015-11-04 00:52:55,"@drewyukikostave Hi there, thanks for the interest! Unfortunately, we are not holding SingCon this year."
+166,2015-11-04 00:43:12,RT @ScottNiswander: Just started watching #Daredevil. There's a really impressive oner at the end of the second episode that I'm obsessed w…
+167,2015-10-04 23:01:10,#Daredevil marathon - here we go! http://t.co/irZxYkDn7r
+168,2015-09-04 00:48:40,"Calm down, Amazon. http://t.co/u0fTgYJg6U"
+169,2015-08-04 23:57:34,@ScottNiswander The best part was the simultaneous expression of 'face' in both English and ASL (sorta). http://t.co/45L95KpRiM
+170,2015-08-04 22:19:51,"With all the Disney live-action movies going on, this is the one I'd really pay to see: https://t.co/34aawRyo9T"
+171,2015-01-04 07:17:11,@cinemasins http://t.co/zh537rdtIq
+172,2015-01-04 07:13:09,Definition of timey wimey: MT @AwesomEmergency: Eobard Thawne Flash Forwards: Still Flash-Backs. He started in the Future -&gt; Past #TheFlash
+173,2015-01-04 02:56:30,Here's a quick look at the success of @tyleroakley's fundraising campaign for @TrevorProject http://t.co/tnN1cbg9vO
+174,2015-31-03 23:38:13,"Dear #Seattle weather: 
+Ouch. Ouch ouch."
+175,2015-27-03 18:59:26,"RT @VancityReynolds: With great power, comes great irresponsibility. #deadpool #officialsuit @deadpoolmovie http://t.co/MPM89bYz1B"
+176,2015-26-03 05:48:54,@AwesomEmergency Ra's al Ghul practically bulk-ordered a bunch of #Arrow suits for the League. #GreenIsTheNewBlack
+177,2015-18-03 04:47:19,@ScottNiswander I'm amused at how fast you finished recording that episode. Very smooth indeed.
+178,2015-17-03 23:08:55,@JoeVeyera Talking about *the* death stare...
+179,2015-11-03 05:57:26,"@cinemasins Oneplus One or LG G3. Neither is new, but they rank high on the Android hotness scale."
+180,2015-11-03 04:46:38,"@ScottNiswander An awesome video (or 2) next week is better than a mediocre one this week. Struggles of a #perfectionist, I feel ya."
+181,2015-05-03 19:39:15,Loving the shade of subtle purple on the brand new @thedaily website: http://t.co/bBiymt1PM2 http://t.co/HcviJHBuWK
+182,2015-05-03 01:20:54,My reaction to the new #AvengersAgeOfUltron trailer: Who's that new character... Vision? OOOOOOOOOOOOOOOHH
+183,2015-03-03 23:54:12,Dawgs in the house! Uh I mean DOGS IN THE @HUBatUW! http://t.co/6TCdhCNHRd
+184,2015-02-03 21:21:30,"Recently addicted to his videos. It's entertaining &amp; educational. 
 
-@codefellows #Python"
-27,2016-30-03 15:02:06,"The Little Go Book, a free introduction to Google's Go programming language - https://t.co/A96fqfzFbi #go #google #webdev #programming"
-28,2016-29-03 15:41:03,RT @ivanoats: Brandolini’s Law: “The amount of energy necessary to refute bullshit is an order of magnitude bigger than to produce it.”
-29,2016-29-03 15:02:58,Setting Up 5 Useful Middlewares For An Express Server - https://t.co/MvSbZVmzNo #express #NodeJS  #middleware
-30,2016-29-03 14:53:30,@IsabellaOrgan dude sitting next to me is grooming his nails like a deficient monkey and smells of old chorizo #metro #seattle #zootopia
-31,2016-29-03 03:46:01,@SEA_TechEvents No worries!
-32,2016-28-03 23:53:02,@SEA_TechEvents shows as cancelled on meetup?
-33,2016-28-03 23:50:46,RT @joseigandres: $ git push --force origin master https://t.co/nYAfCzLVx1 #git #github #lol
-34,2016-28-03 23:49:28,RT @GonzoHacker: We call it continuous integration because we can't figure out where it ends
-35,2016-28-03 06:15:44,CSS and Scalability https://t.co/Pd6UuzL6bo via @mrmrs_ #css #html #design #webdesign #webdev #webdevelopment
-36,2016-24-03 00:09:06,RT @toddmotto: here's the apparent transcripts of the whole npm/kik fiasco: https://t.co/ayMPUhib4m #npm #node #babel #JavaScript
-37,2016-23-03 21:30:41,"RT @toastynerd: https://t.co/yMehD1l6Dv is live, also https://t.co/LeJ4H9dT2B #manintree"
-38,2016-23-03 14:57:21,RT @nodenpm: man-in-tree (1.0.0): https://t.co/sdJHWAsVnP Man in Tree
-39,2016-23-03 04:10:03,RT @steveklabnik: This situation with the npm ecosystem is complex. I wrote up a timeline of events: https://t.co/3Qe1hwOY1y #npm #node #js
-40,2016-21-03 15:12:39,The not-so-secret history of Express https://t.co/PYRv3qeNF4 #express #node #nodejs #JavaScript
-41,2016-21-03 14:54:53,"@henningmus: There is another repo for JSON data sets: https://t.co/lW0Y5a8Xui 
-and another repo for such lists: https://t.co/R58FxS8sKH"
-42,2016-21-03 14:51:43,@oscar_b123 env variables are a good way to do that
-43,2016-17-03 23:28:17,"RT @_ericelliott: Favor `map()` over `forEach()` when you can. Avoid side-effects.
-#functional #JavaScript"
-44,2016-16-03 15:05:34,"RT @segdeha: On code schools and the plight of the junior developer.
-https://t.co/qcq5vSUyLX"
-45,2016-16-03 14:58:09,"RT @jensimmons: “HEY LOOK, IT'S EVERY BOOTSTRAP WEBSITE EVER”
+The real life impacts of 'John Oliver effect': http://t.co/3uqzeQr7jD"
+185,2015-27-02 23:19:46,Statistics professor on statistics: 'This is what keeps planes up in the air 95% of the time.'
+186,2015-27-02 18:27:12,"RT @TheRealNimoy: A life is like a garden. Perfect moments can be had, but not preserved, except in memory.  LLAP"
+187,2015-27-02 00:53:40,I feel like #blueandblack vs #whiteandgold is a propaganda to make everyone question their lives.
+188,2015-26-02 01:07:22,I want #AgentCarter to get a new season because I need to physically see Peggy and Agent Sousa ending up together. A smile is not enough.
+189,2015-25-02 19:58:24,"And... We're back: Chevy Bolt, Hyundai Sonata, and more Prius."
+190,2015-25-02 19:55:56,Tesla Model S. Now we're talking.
+191,2015-25-02 19:53:44,Now he's talking about Nissan Leaf and Chevy Volt. Are we just gonna talk about the ugly cars today?
+192,2015-25-02 19:51:59,"Oh god, professor is bragging about his Toyota Prius."
+193,2015-24-02 05:14:22,RT @henryhobson: http://t.co/U9dgOkwRfX
+194,2015-24-02 05:13:35,"RT @henryhobson: here's some stills from the oscars graphics that I did, thanks @elastic &amp; huge props @LODGE1 for pushing the envelope http…"
+195,2015-23-02 20:53:11,"Although there are contrasting rumors about the new Spider-Man, I really hope they would go with Miles Morales instead of Peter Parker."
+196,2015-23-02 06:26:56,RT @coollike: Wasn't a particularly great night for my first ever Oscars bingo. http://t.co/dVWD0DGU8y http://t.co/9cDLqyvHP1
+197,2015-23-02 06:24:48,And of course every phrase about #Oscars2015 is trending http://t.co/18XHgopAud
+198,2015-23-02 06:22:43,I found myself repeating this tonight: The graphics for #Oscars2015 are absolutely stunning!
+199,2015-23-02 04:23:55,RT @BuzzFeed: THAT WAS AMAZING. GAGA!!!!!! http://t.co/dNMrj9HNZe
+200,2015-23-02 04:23:55,RT @BuzzFeed: THAT WAS AMAZING. GAGA!!!!!! http://t.co/dNMrj9HNZe
+201,2015-18-02 02:38:44,"Dear YouTube, would you please stop messing with the weight of your typefaces?"
+202,2015-17-02 22:00:27,@ScottNiswander Oh the pressure... I checked the latest AP Stylebook just in case. http://t.co/pEnZqggWlp
+203,2015-17-02 21:50:34,@ScottNiswander Perks of working at a newspaper: unconsciously absorbing grammar knowledge that I wouldn't otherwise know.
+204,2015-17-02 21:48:04,@ScottNiswander I believe rip off is the verb and rip-off is the adjective.
+205,2015-15-02 00:26:50,RT @Inspirationf: Arial and Helvetica comparison chart http://t.co/wuE2VqUwNX
+206,2015-14-02 05:06:13,"Watching #Constantine series finale, then catch up on The Flash, Arrow, Gotham, &amp; Agent Carter episodes after. Oh how I love long weekends."
+207,2015-10-02 06:25:51,"Given the shifted release dates, I think we'll see Spider-Man in #CaptainAmericaCivilWar. #SpideyIsHome http://t.co/otO2OYJyeN"
+208,2015-10-02 06:18:25,FINALLY! #SpiderMan in the MCU: http://t.co/GYSGBVC8Z3
+209,2015-09-02 23:56:50,Just saw a man with a three-legged pitbull on the Ave...
+210,2015-09-02 20:19:22,71 slides and he still finishes the lecture early.
+211,2015-09-02 20:17:16,"Atmos science prof has graduated from going through 40 slides per 50-min lecture to 70+ slides. Good for you, but I can't read that fast."
+212,2015-09-02 05:40:55,RT @PTXofficial: WE ARE GRAMMY WINNERS! WE LOVE YOU GUYS SO MUCH! THANK YOU FOR ALWAYS BELIEVING IN US! 😭😍❤️ http://t.co/baFOwNYi1t
+213,2015-09-02 00:50:49,Just realized how crazy it must looked when I did physics hw while blasting Phantom of the Opera's concert DVD... Glad that I live alone.
+214,2015-08-02 19:21:05,"RT @JeremyClarkson: An idea for a new football rule. Down for more than 15 seconds, you have to be subbed. Down for more than 30, you have …"
+215,2015-08-02 01:43:56,@elliepses MJ is not dead. He released an album just last year.
+216,2015-08-02 01:39:18,@elliepses This came on shuffle when you commented: http://t.co/t8eJNNQRsQ
+217,2015-08-02 01:33:17,Meanwhile... http://t.co/4fibOBNhb0
+218,2015-08-02 01:19:39,"More maps! This time, in an infographic I made for @thedaily's Sex Edition. http://t.co/BZAYwJfKU1"
+219,2015-05-02 18:02:45,'Imagine if you wake up one day and find yourself in a cyclotron magnet gap.'
+220,2015-04-02 21:03:55,The mapmaker is back! This one is about the trails of previous UW presidents - in @thedaily today. http://t.co/IBHntQ4oF5
+221,2015-03-02 20:38:58,This is happening too quickly! RT @grantgust: This is today. But you'll have to wait a while... #TheFlash #Atom http://t.co/PANReCzRpd
+222,2015-03-02 20:35:53,#Arrow just dropped the Atom suit! I was expecting more blue and less... Ant-Man...? http://t.co/Q4UnxIxf7j
+223,2015-03-02 19:08:24,"After popularizing mid-/post-credit scenes, Marvel Studios creates another signature move: 15-second teasers for trailers. #Daredevil"
+224,2015-02-02 21:40:53,#BroadwayCon is really happening! *THEATRE GEEK MODE ON*
+225,2015-02-02 20:48:23,Jurassic World #superbowlcommercials: RAPTOR SQUAD!!!!
+226,2015-02-02 20:40:43,"Fifty Shades of Grey:
+If you start your trailer with number of books sold &amp; trailer view count, I'll assume you're not worth my money/time."
+227,2015-02-02 20:36:45,"Insurgent pre-game trailer: 
+SLOW-MO! SHATTERING THINGS! THE ONE... MATRIX?"
+228,2015-02-02 20:31:52,"While everyone on my Twitter feed is talking about #SuperBowl ads, I'm watching all the movie trailers broadcast during the night."
+229,2015-02-02 09:11:41,Several dozens of police officers were standing by around U District before the #SuperBowl game ended tonight. http://t.co/uPrZFedgdz
+230,2015-01-02 23:13:35,"After watching a documentary about movie scoring last night, it makes it wonder why did they choose those entrance music... #SB49"
+231,2015-01-02 22:14:59,RT @JoeVeyera: Let's get this trending! #NoCouchBurnings
+232,2015-31-01 23:59:36,No clue what's going down tomorrow? Read #SuperBowl for Dummies in @thedaily by @elliepses. (Layout by yours truly) http://t.co/rifJa7O5lQ
+233,2015-31-01 09:55:19,'It's peak America isn't it? It's when America Americanizes itself to the full American extend.' -@iamjohnoliver on #SuperBowl
+234,2015-28-01 00:32:59,"Call it a teaser, call it a trailer. Please don't call it a teaser trailer."
+235,2015-27-01 07:02:33,Exact reason why Facebook &amp; Instagram are down. RT@NewYorker: Today’s daily cartoon by @JoeDator http://t.co/utGdMOyEEm #Snowmageddon2015
+236,2015-27-01 06:41:23,#FacebookDown ain't gonna stop my procrastination from studying for my physics midterm tomorrow.
+237,2015-27-01 06:36:10,"RT @madbuzzhk: Oh no! #Facebook &amp; #Instagram seem to be down right now. It's ok, we still have #Twitter #1stworldprobs"
+238,2015-26-01 20:15:26,"Laptop, I hate you."
+239,2015-24-01 05:31:28,I just drew a 4-inch long fraction line. #mathlife
+240,2015-21-01 20:48:09,"RT @prattprattpratt: @ChrisEvans OK. Seahawks win you fly yourself to Seattle, visit @seattlechildren hospital as Captain America, waving t…"
+241,2015-18-01 23:45:09,RT @Neil_Paine: Incredible. http://t.co/53El5oXADY
+242,2015-18-01 23:40:15,"RT @nfl: Hey @Seahawks:
 
-https://t.co/05aBBuUUf3"
-46,2016-16-03 03:45:14,RT @luke_wagner: Hacks post with WebAssembly progress update: https://t.co/jDWhAW6Bu4
-47,2016-14-03 15:01:38,RT @evanhlucas: Looking to contribute to @nodejs? Look at these #goodfirstcontribution issues https://t.co/0ji1BLWJbc
-48,2016-14-03 15:00:55,"RT @RichRogersHDS: Programming is about 13% math, 15% theology and the rest is just looking stuff up on the internet - @GonzoHacker https:/…"
-49,2016-13-03 22:09:12,RT @codefellows: Seattle coding camps seen as fast track to high-paying jobs: https://t.co/MThurre5Al via @seattletimes https://t.co/7LTHFP…
-50,2016-13-03 22:06:11,@BNBuzz Please don't make me hate the Beatles by playing them over and over in your stores #Beatles  #BarnesandNoble #makeitstop
-51,2016-10-03 16:06:36,https://t.co/stb5wTHrNt high ping in real life #offandonagain #ping
-52,2016-10-03 05:24:22,RT @civictechsea: Wish list for @seattleparks data: features. What it will take on the city side: repurposing data from maintenance to appr…
-53,2016-10-03 05:19:23,RT @expo_Milano2015: @lmattyjaya • Albero della vita • #parte2 #milano #expo2015 #love #like4like #life #ingiro #instalove #insieme #dop… h…
-54,2016-10-03 02:37:13,Open Data meetup at @socrata ! #opendata #socrata https://t.co/Ke0sPz8VzI
-55,2016-09-03 15:40:23,jQuery 3 new features https://t.co/X6MsmHpcgi #jQuery #javascript #webdevelopment
-56,2016-09-03 02:31:39,New tech Seattle meetup at @galvanize ! https://t.co/OxuLFcqnF4
-57,2016-08-03 18:36:36,RT @ivanoats: 'It will be as unimaginable to future generations that we maintained our own servers'. https://t.co/MUShup6BiL by @obie
+You're goin' to the CHIP! #GBvsSEA http://t.co/ZK6wya9bWE"
+243,2015-18-01 23:38:52,And at that moment.. My Facebook and Twitter feed exploded. #GBvsSEA #GoHawks!!!
+244,2015-14-01 08:43:05,RT @cinemasins: Which BuzzFeed pop-culture quiz are you?
+245,2015-13-01 22:16:31,@AlisonAtwell Lethal brass knuckles. @amazon knows you live in a sketchy part of town.
+246,2015-13-01 08:46:38,@thucnhi21 3) Drawing a straight line between a really wide fraction.
+247,2015-07-01 22:47:08,Math lecture about histogram and prof talks really fast and I keep hearing 'Instagram'.
+248,2015-07-01 06:26:05,@ScottNiswander Ahhh I just cannot click away from this! Every time it sounds as funny as the first.
+249,2015-06-01 19:10:14,"After hearing about the possibility of a open book physics final, I experienced relief followed immediately by terror."
+250,2015-05-01 22:05:08,"'It's all about that math. 'Bout that math.' 
+
+- Math professor commenting on engineering"
+251,2014-31-12 04:00:26,"@NerdSync The Re-Sync/corrections section in the podcast should be called 'comments from our fourth co-host,' since... You know..."
+252,2014-30-12 23:21:36,"I counted exactly 7 handheld babies at the gate, plus 5 toddlers, for a 76-seat flight. I should have brought my noise-canceling headphones."
+253,2014-25-12 19:16:40,Yes we have a turkey! Now it feels like Christmas. 🎄
+254,2014-25-12 18:29:28,Watching Nebraskans try oysters for the first time. #xmasdinner
+255,2014-25-12 06:58:52,Thanks for telling me about the GIF tab on YouTube. @ScottNiswander @NerdSync http://t.co/NQS96cMPiE
+256,2014-23-12 22:57:56,It has been four years since I've been in this Walmart and I am still amused by its capacity of time-dissipation.
+257,2014-23-12 22:30:25,Teenage girls being teenage girls: fighting and giggling about boys. I'm already too old for this sh*t.
+258,2014-23-12 17:59:08,Ordering a double tall latte in Starbucks and the barista doesn't know what that means... #Nebraska
+259,2014-22-12 07:15:06,Ordered food with an iPad while waiting at MSP boarding gate. Delivered in 15 min and tasted great. #antisocial http://t.co/OfeRZg2zas
+260,2014-10-12 22:54:00,It feels like tropical rain falling on my skin. MT@MorganKIRO7: Warmest Dec temperature on record. http://t.co/NujHuBGtuC
+261,2014-08-12 22:46:10,Just discovered this Emmy skit today and the ending made my day: http://t.co/fKgSQqWgo3
+262,2014-08-12 11:34:34,Oh all the episodes waiting for me to finish finals week... Won't be long now! #FlashvsArrow #AgentsofSHIELD #Constantine
+263,2014-07-12 05:50:35,Google knows that @cinemasins is my official news source. http://t.co/Wqqq9y3MjS
+264,2014-05-12 01:54:46,Another brilliant 'Slow Jam The News' that I can't stop watching: http://t.co/tr7PeOk7Hq
+265,2014-05-12 01:42:01,Benedict Cumberbatch as Doctor Strange and Ryan Reynolds' Deadpool BOTH CONFIRMED! I'm geeking out and fangirling at the same time!!!!
+266,2014-04-12 05:24:11,That tall pile in my kitchen sink? It's called PROCRASTINATION TETRIS.
+267,2014-02-12 23:35:34,RT @jacksjabble: *INTERNALLY SCREAMING* Jared Leto is confirmed as the Joker in #SuicideSquad lineup! http://t.co/mrK525lBvo
+268,2014-28-11 23:55:38,Was trying to get home from downtown and avoided all the mess near Westlake station thanks to Twitter.
+269,2014-27-11 07:10:15,I had trouble recalling the ending of the last movie while watching Mockingjay Part I... Scenes of divergent keeps popping up in my head...
+270,2014-22-11 21:43:29,"All aboard the 'poo bus'! 
+RT @KPCC: Poo power: New British bus runs on human waste http://t.co/cnFUKQ4E4K"
+271,2014-22-11 05:57:15,RT @ScottNiswander: Can we just all agree that it's an amazing time to be alive as comic book fans?!
+272,2014-20-11 08:24:02,"@cinemasins only if it has a sin counter printed at the bottom, so it adds a sin every time I run out of coffee"
+273,2014-16-11 07:19:01,Some of my @SnailMailEmail letters from today. #snailmailmyemail http://t.co/QjfSHceiLR
+274,2014-13-11 20:43:14,"BOXING GLOVE ARROW! MT @NerdyMindsMag: #Knockout episode of #ARROW! #TrickArrow #SeeWhatIDidThere
+http://t.co/43QxHAVM4X"
+275,2014-13-11 08:48:12,And I'll never see comics the same way again! Watch @NerdSync explain comic as an art form &amp; why you too are Groot: http://t.co/jlb4GInV2e
+276,2014-12-11 21:20:16,"Isn't this the exact scene from @cwFlash last night? #TheFlash 
+Photos via @bedopas http://t.co/jm43bICixv"
+277,2014-08-11 13:08:30,"5 a.m., I guess I'm calling it a night. Essay writing will return tomorrow."
+278,2014-01-11 02:43:30,"'Exorcist, demonologist, and... Occasional dabbler in the Dark Arts.' #Constantine"
+279,2014-01-11 02:31:24,"RT @AgentCarterTV: #AgentCarter is coming to ABC Tuesdays this January.
+https://t.co/SjrLrVABgM"
+280,2014-01-11 02:14:48,My Halloween show of choice: @NBCConstantine. Please be picked up for a full season already!
+281,2014-28-10 22:42:30,RT @AwesomEmergency: That's It For the #MarvelEvent. Lots to talk about. Esp all those confirmed Titles #Avengers #InfinityWar http://t.co/…
+282,2014-28-10 22:40:07,RT @AwesomEmergency: Marvel Phase 3 Full Monty #MarvelEvent http://t.co/p7dew9dlJP
+283,2014-23-10 02:08:51,#AvengersAgeOfUltron seems darker than I thought. I hope to see balanced screentimes between characters as depicted: http://t.co/5UM2moJ1ej
+284,2014-23-10 01:51:58,@AwesomEmergency It's time! http://t.co/5UM2moJ1ej
+285,2014-22-10 00:52:05,"@rikognition You're always asking this same question, aren't you?"
+286,2014-15-10 20:31:29,The phone I've been looking forward to all year... Everything's nice except for the size: http://t.co/SWhDjTRBSk
+287,2014-11-10 09:03:59,"RT @tomgrundy: SCMP graphic by @adolfux: How police &amp; protesters stack up
+
+High res: http://t.co/iExjPdKOjn 
+
+Via @SCMP_News http://t.co/xQ…"
+288,2014-11-10 08:58:02,None can compare to the wit of Hong Kongers #UmbrellaRevolution  RT @tess731: http://t.co/bMga0xz6PZ
+289,2014-10-10 21:42:33,@playdots What should I do now? #TwoDots http://t.co/N7W1LqPl5R
+290,2014-05-10 06:01:15,@elliepses @Bessex_Joshua that is only fair after you confused me with a tiny fly
+291,2014-03-10 18:30:31,RT @tomgrundy: Mongkok #Occupycentral http://t.co/JVQi2O39Uc
+292,2014-02-10 10:20:56,Signs brought to Seattle rally in support of the #UmbrellaRevolution at @UW earlier tonight. http://t.co/pcEnc3wgaO
+293,2014-02-10 10:17:43,Students organizers led the Seattle rally crowd to sing along to support Hong Kong protest. #OccupyCentral http://t.co/5o7Qj6Ec6l
+294,2014-02-10 10:15:08,Rally at @UW Seattle to support Hong Kong protests. More photos to follow. #OccupyCentral #UmbrellaRevolution http://t.co/L5qelJcMvn
+295,2014-30-09 18:28:03,"RT @tomgrundy: Sea of lights. 
+
+I've been to 101 protests in Hong Kong. Never seen anything like this. #Occupycentral http://t.co/OwxSli6Y3L"
+296,2014-28-09 20:07:05,I'm too scared to open Facebook now. My newsfeed is flooded with photos that make me sad. #OccupyCentral #HongKong
+297,2014-27-09 09:00:10,Freedom has its price. '@AP: BREAKING: Police move in to clear Hong Kong protesters from government complex after scuffles leave 29 hurt.'
+298,2014-27-09 08:00:33,Coloring my wall with my proudest designs. http://t.co/pHrm5wcwJU
+299,2014-25-09 20:42:38,My new #weeklyobsession: http://t.co/SXAiHwxbFA The way they arranged Phantom... Oh I'm in love!
+300,2014-24-09 02:22:32,I just noticed how old my Twitter profile pic was. By changing it I've also realized I don't have any recent photos of myself.
+301,2014-20-09 02:21:54,RT @RhettReese: Team Pool needs your official 'vote' of support.  Let's break the internet.  RETWEET if you would buy a ticket to the DEADP…
+302,2014-17-09 09:36:12,Things I learn from Top Gear: Brits don't talk in lifts.
+303,2014-23-06 07:01:05,RT @coollike: Proud that I utilise the same writing position as NYT best selling author @realjohngreen. Try it at home! #Johning http://t.c…
+304,2014-08-04 17:18:00,Now why would anyone do that? '@khoi: @craigrozynski redesigns Comic Sans as new typeface. http://t.co/Z3eVub2JfS http://t.co/6vmleRY4Zf'
+305,2014-07-04 22:26:14,'Naturally. RT @MeetMeInSeattle: This is how an entire campus gets their first sunburn of the season.  #EllenWatch http://t.co/yegHa5yAWg'
+306,2014-04-04 18:36:48,Studying the motion of a jump in a 007 movie in physics class. #todayisagoodday
+307,2014-30-03 19:27:14,"'The Day After Tmrw comes true: @weatherchannel: Giant hail struck Hong Kong, shattering roof in shopping centres: http://t.co/Q72gT8YV2B"
+308,2014-27-03 01:45:21,"RT @SeattlePD: Man seriously wounded, five detained following University District shooting: http://t.co/pz02lo28z2"
+309,2014-03-03 03:35:48,RT @corinnefoxx: Thanks @TheEllenShow haha we were actually starving!!! #pizza #oscars http://t.co/yXxfmNseNk
+310,2014-03-03 03:35:02,RT @TheEllenShow: If only Bradley's arm was longer. Best photo ever. #oscars http://t.co/C9U5NOtGap
+311,2014-06-02 00:38:09,RT @joshtrujillo: Perhaps my favorite pic from #SeahawkParade of @MoneyLynch throwing Skittles to #12thman More coming soon @seattlepi http…
+312,2014-03-02 08:51:46,RT @SeaTimesFotoKen: RT: @DenverSportNews: Sneak peek at the @DenverPost 1A cover for Monday. #SB48 #Seattle #Seahawks http://t.co/6RZYxHTB…
+313,2014-31-01 07:02:17,RT @hksasingcon: Squeezing some time in between homework to prepare for auditions tomorrow! Are you ready? #singcon2014 http://t.co/w6K5ANS…
+314,2014-27-01 23:18:08,"RT @WIRED: 17 of your favorite movie quotes, done as infographics http://t.co/XBrnDNOitJ http://t.co/UVsSoMFy6E"
+315,2013-19-10 07:11:20,“Build a Trustworthy Design Process” by @joulee https://t.co/K6cnxPk9dK
+316,2013-15-10 23:07:11,'I'm three-dimensionally challenged.' - A.Math prof.
+317,2013-08-10 23:06:05,RT @uwalert: Widespread fire alarm activation due to water main break at 45th St Viaduct.  Evacuate buildings and return only when alarms c…
+318,2013-15-06 22:27:55,'Find the genius that is uniquely yours and nurture it.' - Jon Huntsman #uwgrad13
+319,2013-11-06 22:16:46,Hidden gem: 7 Ways to Boost Your Creativity http://t.co/Zc2appk03B
+320,2013-09-06 09:11:41,If I were to head home 10 min early... RT@SeattlePD: Armed Robbery of a convenience store in North Seattle. http://t.co/mdqTrEI0b3'
+321,2013-07-06 20:33:24,"Here's to the end of another school year, another chance to design awesome pages. http://t.co/AgiIVQU9e3"
+322,2013-07-06 08:27:33,"@AlisonAtwell Trust me, it helps"
+323,2013-06-06 22:12:54,This is truly helpful esp during deadweek: The Overthinker’s Guide To Resting Bitchface Syndrome | Thought Catalog http://t.co/asCWGhkQOp
+324,2013-14-03 03:30:27,'FTS who cares about RGB around here?' -just another convo in the newsroom
+325,2013-13-03 19:04:24,"'Nuclear physics let you play video games,' because it saves you from decaying."
+326,2013-13-03 01:59:10,Getting a gorgeous #freefont designed by @jonatanxavier. Check it out:  http://t.co/uWmvMIBYD5
+327,2013-08-03 19:45:21,'So we organized a 'Higgs night out'' -phys professor describing the day of Higgs particle discovery
+328,2013-01-03 08:39:03,Sweet deals! http://t.co/fkvAQ6tTv6 via @Fab
+329,2013-25-02 23:47:32,Some good discussion about VFX studios in the country on Reddit: http://t.co/XvdWoELePv
+330,2013-20-02 16:34:59,I Didn’t See This For Myself | Thought Catalog http://t.co/eM4p5GDN via @thoughtcatalog
+331,2013-13-02 04:14:22,"While considering a new watch, I stumpled upon: If Apple Makes a Smartwatch, This Is the Competition http://t.co/NDJIwZAb via @techland"
+332,2013-12-02 21:49:10,Good to discover tools other than Kuler and COLORlovers: 10 Tools for Creating Brilliant Color Schemes http://t.co/V1uzLGH5
+333,2012-10-11 04:34:44,Free Bigboned FatFrank Font by @jeff_schreiber http://t.co/IcHJZjI3
+334,2012-08-11 21:22:59,Fact. Yes fact. 8 Signs You Are Becoming Boring http://t.co/wxBqz6ji (via @thoughtcatalog)
+335,2012-08-11 20:57:52,"V-J Day in Capitol Hill, taken by our very own Ben Hagood : http://t.co/5bnGMFge"
+336,2012-08-11 18:45:25,Awesome work google! Jamming music with friends online: http://t.co/Iu4TcHNo  #JAMwithChrome
+337,2012-07-11 23:18:41,Favourite front page for #election2012. http://t.co/OQYypkbg (via @Newseum)
+338,2012-07-11 22:09:57,"'Practice, practice, practice. If you don't practice, you'll die. Everybody will die.' - math instructor"
+339,2012-07-11 19:33:53,RT @AlisonAtwell: Here's my front page of @thedaily today! #election2012 #design #infographics http://t.co/OCkfjJIt
+340,2012-07-11 09:06:33,RT @komonews: Obama: 'We are greater than the sum of our individual ambitions.' #election2012
+341,2012-07-11 04:27:19,'#PlanE is trending on Twitter now.'
+342,2012-07-11 01:13:33,It has been a busy night on Twitter. #Election2012 And it will get busier. Oh work.
+343,2012-05-11 17:55:23,'We are dark souls... [sitting] on white thrones of judgement.' Inspiring read. http://t.co/KIUUekAT via @zarias
+344,2012-05-11 05:48:48,A Crash Course in The Art of Constructive Critique http://t.co/Q4PD0IXi via @sharethis
+345,2012-03-11 07:03:46,"Yep #Facebook is down. Thank god for #Twitter and its community, allowing me to confirm that it wasn't just me."
+346,2012-01-11 21:23:28,Gorgeous way to look at music. Electric Colored Paint Dances to Different Genres of Music http://t.co/RIy4VZaJ via @mymodernmet
+347,2012-01-11 07:58:35,"HELL YEAH. Zombie Apocalypse Training: HALO Corp. To Train Military, Law Enforcement On Virus Outbreak http://t.co/ZvcSJ9Xx"
+348,2012-31-10 23:13:41,88 Important Truths I’ve Learned About Life | Thought Catalog http://t.co/1LrxZAUK via @thoughtcatalog
+349,2012-30-10 08:14:53,RT @PiersTonight: Floodwaters rush into a subterranean parking garage in the financial district (via Getty Images) #Sandy http://t.co/zn ...
+350,2012-30-10 08:11:19,RT @WSJ: A dark lower Manhattan. A near-empty Times Square. A flooded carousel. Memorable photos from #Sandy: http://t.co/6xNiNyQO
+351,2012-24-10 01:28:27,iPad Mini vs 6 Other Tablets [Comparison] http://t.co/yvZDwb2Q
+352,2012-17-10 19:13:24,"Something's happening on 45th and 12th... Firetrucks, ambulances, and a dozen of officers standing in circle watching someone giving a CPR.."
+353,2012-14-10 23:51:51,The Extinction of Deep Thinking &amp; Sacred Space http://t.co/mEmHjFS4
+354,2012-14-10 23:50:53,7 Types of Creative Block (and What to Do About Them) http://t.co/TgsL5yht via @99u
+355,2012-14-10 19:18:24,Cleaning up the 'Following' section... And I'm back people!
+356,2012-14-10 00:30:18,230 vs 87 yards... I must say I'm disappointed #UWvsUSC
+357,2012-13-10 02:26:17,At Moore Theatre for  @KollabSeattle 3! http://t.co/LhqsPjhp
+358,2012-10-10 06:22:50,So I do design faster and feel less tired when i work with music... A reason for a new ipod perhaps?
+359,2012-02-10 18:49:16,"Finding treasure at @UW's surplus inventory. 16mm film, anyone? http://t.co/DkfSlkl3"
+360,2012-02-10 18:46:38,"Fascinated by the Photoshop skills, I have yet to figure where should I stand.  http://t.co/uARiZam7"
+361,2012-02-10 09:01:06,RT @TIME: At least 36 dead in Hong Kong ferry crash | http://t.co/hkWSeCj3 (via @TIMENewsFeed)
+362,2012-28-09 16:34:37,RT @ScottEnyeart: Picture of the couch on fire.  http://t.co/KX6XJ34r
+363,2012-26-09 18:34:03,"'It should be a non-graphing, non-programmable... Just a STUPID CALCULATOR.' -my Math professor"
+364,2012-14-09 17:49:27,RT @thecoolhunter: The new iPhone better spit out money and Morgan Freeman better be the new voice of siri.
+365,2012-07-08 03:48:03,How to get your digital life ruined over a weekend. http://t.co/vZQ39Im1
+366,2012-17-07 03:56:23,Ancient assassination? RT @AP: Sewing needles found in sandwiches on 4 Delta flights from Amsterdam airline: http://t.co/uKDovXBv
+367,2012-11-07 05:34:33,Finally finished editing show photos. And this one has surprisingly received a lot of positive comments. http://t.co/yQn6yyad
+368,2012-10-07 17:10:51,RT @brainpicker: 'Inspiration is a word used by people who aren’t really doing anything.' Nick Cave on work ethic vs. 'inspiration' http ...
+369,2012-10-07 16:51:34,Well this is new... Hong Kong was named the best city to live in: http://t.co/GJ9TXLkk
+370,2012-10-07 16:45:01,RT @stuartmarlantes: I judge #photographers by their watermarks.
+371,2012-09-07 18:59:11,"Just discovered a nice app for viewing Facebook photos, Pinterest style. http://t.co/S5Y7yK3B"
+372,2012-08-07 17:25:28,"Zombie Apocalypse Theme Park in Detroit? Hmm... Yes, please! http://t.co/0DhnZlCY"
+373,2012-04-07 06:43:04,100 keys to building brand and logos: http://t.co/clPtp2BV
+374,2012-04-07 05:11:51,Why procrastination is a good thing: http://t.co/JAvckZ0d
+375,2012-04-07 03:41:45,Neon flames: generative art experiment using #html5 http://t.co/PT3bBTHt
+376,2012-03-07 15:15:49,Perfect fusion of architectural planning and environmental awareness: Supertrees in Singapore http://t.co/e8OXIv3J
+377,2012-03-07 14:54:18,The trend in animation set by 2012 Olympics opening sequence http://t.co/OxUxRwoF
+378,2012-03-07 10:46:44,An insightful and detailed article about PS CS6. RT @flip_photo: Photoshop CS6: From The Inside http://t.co/l8owcK3J
+379,2012-03-07 02:48:12,I'm back! Now off to catching up stuff that happened during the past 2 weeks.
+380,2012-19-06 00:00:01,Microsoft unveils new Surface tablet computer. Looking good! http://t.co/15gzOqCt
+381,2012-16-06 23:39:32,Speaking of industrial design... The secret on a Solo cup: http://t.co/LMfiUO5m
+382,2012-16-06 23:36:16,RT @brainpicker: Store Front – the disappearing face of New York's vintage typographic store signage http://t.co/Wwgwlea6
+383,2012-16-06 23:06:53,"Run Away font: http://t.co/8vU4irFd I am addicted to slab, yes, I know."
+384,2012-11-06 22:48:42,RT @kottke: The Coiffure Project: photos of women who keep their hair natural http://t.co/LPsZW1rK
+385,2012-10-06 20:35:08,How to stay creative. Inspiration but well.. Background music could have been slightly more encouraging. http://t.co/lL5vfjFX
+386,2012-10-06 20:29:06,Nature gives a try in digital composition. http://t.co/OmVCBcsN
+387,2012-10-06 02:39:26,"This is AWESOME. George Carlin, on BS (explicit): http://t.co/88iUT9WV"
+388,2012-10-06 00:53:20,Inspirational. NEIL GAIMAN: Make good art  http://t.co/STmM5AmO
+389,2012-10-06 00:50:06,This is a masterpiece. The Chromatic Typewriter: http://t.co/qO8gsNfx
+390,2012-10-06 00:47:32,Circle of wild life: http://t.co/TlQiW7gL
+391,2012-09-06 23:30:24,Someone please make me one! TetraBox Light: http://t.co/1zNywyV0
+392,2012-09-06 23:15:19,Silk: http://t.co/wizCCHXj
+393,2012-09-06 22:49:41,RT @UberFacts: Each Twitter user adds about $71.00 to the entire company's value - Facebook users are worth more contributing $118.00.
+394,2012-06-06 22:55:27,"RT @NikkiFinke: With E3 in full roar, Disney picks perfect time to launch 'Wreck-It Ralph' trailer for its holiday toon http://t.co/ATE5RmGw"
+395,2012-06-06 20:55:29,"RT @ScottSKOMO: From Dept. of Optimism: MT @shmulyt: Seattle stat: if the temperature rises by 1 degree every day, it will be 82 degrees ..."
+396,2012-06-06 20:06:21,RT @c_imprfctn: Hello twitterers!!! Episode 5 is ALIVE! Featuring the greats @willgay and @EdselChanning of the fantastic @DisneyYS! htt ...
