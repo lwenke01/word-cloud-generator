@@ -1,173 +1,76 @@
 ,timestamp,tweet
-0,2016-21-04 17:28:21,"RT @kexp: We love you, Prince. Thank you for the decades of music. https://t.co/nYQ7bklS4N"
-1,2016-15-04 23:04:26,"+1 pwnt for 1-line TOS: 
+0,2016-28-04 15:03:00,"RT @toddmotto: iTerm tip, press CMD + click on the web address to launch in the browser. https://t.co/4ETfXvBnrP"
+1,2016-26-04 15:06:37,"@_ericelliott: 10 Interview Questions Every JavaScript Developer Should Know
+https://t.co/6pebhbN3Xh #startup #JavaScript"
+2,2016-26-04 14:51:32,"RT @keiran_s: OH : 'I am a full stack overflow developer' 
+Comedy gold from @QuinnyPig"
+3,2016-25-04 15:00:54,"RT @christianmaioli: A timeless argument
 
-'No take-backsies'"
-2,2016-15-04 16:09:04,Getting coffee @KEXPNewHome is my new favorite part of waking up
-3,2016-06-04 03:55:21,"RT @CodeFellowsSEA: Code 101, your #roadmap to a #new #career @spencercaldwell @dvicklund @davidatthepark @_craigcampbell @pnwlady https://…"
-4,2016-23-03 19:36:30,"via @seattletimes: 'Wednesday morning, the man yelled from the treetop: 'How much taxpayer money are you wasting? It’s not an emergency!''"
-5,2016-23-03 19:32:34,"#ManOnGround made it a whole 24 hours as #ManInTree - begging the question, 'why?'"
-6,2016-23-03 02:40:52,"As a fellow arborophile, I stand perched with #ManInTree - if he makes it 24 hours, the mayor should grant him a permanent lease."
-7,2016-23-03 02:29:33,"RT @SteveAdlerSays: #ManInTree may be knotty, but I'm starting to root for him. https://t.co/xaAki3OLpV"
-8,2016-18-03 01:36:11,LIVE on #Periscope: The Photons Live https://t.co/KlNomFNf9P
-9,2016-13-03 18:44:45,LIVE on #Periscope: Photons and Sound https://t.co/l1NTTUeE6Z
-10,2016-08-03 04:44:47,Grading assignments @CodeFellowsSEA is so fun right now. #bitmapTransformer #codingGeniuses
-11,2016-02-03 23:48:07,"https://t.co/tGMsfwnhdW
+#devhumor #programming https://t.co/Sw2oWZuldQ"
+4,2016-22-04 15:27:11,Python Creator Guido van Rossum on How He Got His Start in Programming – Tech Rocket - https://t.co/dzDldYgCkZ #python #py #programming
+5,2016-21-04 15:10:00,"RT @binitamshah: How I Hacked Facebook, and Found Someone's Backdoor Script : https://t.co/H8j1UUVkoJ"
+6,2016-21-04 01:20:51,"RT @Paul_Reviews: A linux sysadmin walks into a pharmacy.
 
-^An oldie but a goodie that's always fun to implement"
-12,2016-28-02 23:56:40,RT @plutokiller: Dear Girls Scouts: How come the Thin Mints box says there are 8 servings but there are only 2 sleeves of Thin Mints? I nee…
-13,2016-25-02 17:19:59,"RT @XplodingUnicorn: 5-year-old: Why do you spend so much time on the Internet?
+'ephedrine?'
+'I can't serve you that.'
+'sudoephedrine'
+'There you go'"
+7,2016-19-04 14:57:20,System Design Cheatsheet - https://t.co/flOZWF3dkR
+8,2016-19-04 14:55:49,Universal Install Script by XKCD – Combat test - https://t.co/NARqlW5abq #xkcd #bash #script
+9,2016-13-04 15:07:27,"RT @segdeha: Great thread on junior devs and bootcamps, starting with this tweet. https://t.co/AlYvyVcZnb"
+10,2016-13-04 15:03:01,RT @lydiaguarino: 2) You get at least two skill sets when you hire a boot camper. Their new found tech skills and the skill set they honed…
+11,2016-12-04 23:50:05,RT @_ericelliott: 10 Habits of Happy Node Developers https://t.co/upb5mZKbpY #Nodejs #JavaScript
+12,2016-08-04 14:53:54,@dev_mcfly welcome back to the twitterverse.
+13,2016-06-04 14:49:28,"RT @normative: Note: WhatsApp made its crypto announcement today, but pushed out the client update last Friday. https://t.co/NtsnE7Iebn"
+14,2016-05-04 14:55:59,RT @CaseyNewton: Brutal Nest assessment from a person who says they're an engineer there  https://t.co/vCqTo8XDCC https://t.co/gLuPqKrmb3
+15,2016-04-04 15:52:47,@codefellows I wonder if CSS will ever be banned for the same reason #css #devjokes
+16,2016-04-04 15:50:48,RT @binitamshah: MIT turns Wi-Fi Into Indoor GPS : https://t.co/UXTnsibFWD
+17,2016-04-04 15:47:57,"RT @_ericelliott: It's past time to learn ES6. Get on it.
+https://t.co/5lN1Gi2mYy #ES6 #JavaScript"
+18,2016-01-04 22:07:29,"RT @jasongowans: If you're a web dev, this is worth paying attention to. https://t.co/zOta9KdP7v"
+19,2016-01-04 20:19:35,RT @goldirises: Happy Friday from @trending__tunes #FridayFeeling https://t.co/y9nGoFS5MH
+20,2016-01-04 00:36:33,"RT @aedison: I thought it was weird that my girlfriend has a statistics fetish, but she insists it's a standard deviation."
+21,2016-31-03 14:32:32,This should never happen - https://t.co/RFsY4ZMekZ #git #github #code
+22,2016-31-03 00:21:50,"RT @JS_Cheerleader: Your pay is determined by your ability to communicate your experience, your knowledge, and your coding skills in short…"
+23,2016-30-03 15:15:13,Changes to npm publish policy - https://t.co/hFUFGuIy3c #npm #NodeJS #node #JavaScript
+24,2016-30-03 15:13:35,Babel's dependency network - https://t.co/Ze0FteNzlm #JavaScript #babel #omg #npm #NodeJS #node
+25,2016-30-03 15:05:15,RT @horse_js: npm search should have ads
+26,2016-30-03 15:05:02,"RT @crisewing: Woot woot!  That’s one of my teams on TUESDAY of project week! https://t.co/FbyJ81vSmM
 
-Me: I don't know.
+@codefellows #Python"
+27,2016-30-03 15:02:06,"The Little Go Book, a free introduction to Google's Go programming language - https://t.co/A96fqfzFbi #go #google #webdev #programming"
+28,2016-29-03 15:41:03,RT @ivanoats: Brandolini’s Law: “The amount of energy necessary to refute bullshit is an order of magnitude bigger than to produce it.”
+29,2016-29-03 15:02:58,Setting Up 5 Useful Middlewares For An Express Server - https://t.co/MvSbZVmzNo #express #NodeJS  #middleware
+30,2016-29-03 14:53:30,@IsabellaOrgan dude sitting next to me is grooming his nails like a deficient monkey and smells of old chorizo #metro #seattle #zootopia
+31,2016-29-03 03:46:01,@SEA_TechEvents No worries!
+32,2016-28-03 23:53:02,@SEA_TechEvents shows as cancelled on meetup?
+33,2016-28-03 23:50:46,RT @joseigandres: $ git push --force origin master https://t.co/nYAfCzLVx1 #git #github #lol
+34,2016-28-03 23:49:28,RT @GonzoHacker: We call it continuous integration because we can't figure out where it ends
+35,2016-28-03 06:15:44,CSS and Scalability https://t.co/Pd6UuzL6bo via @mrmrs_ #css #html #design #webdesign #webdev #webdevelopment
+36,2016-24-03 00:09:06,RT @toddmotto: here's the apparent transcripts of the whole npm/kik fiasco: https://t.co/ayMPUhib4m #npm #node #babel #JavaScript
+37,2016-23-03 21:30:41,"RT @toastynerd: https://t.co/yMehD1l6Dv is live, also https://t.co/LeJ4H9dT2B #manintree"
+38,2016-23-03 14:57:21,RT @nodenpm: man-in-tree (1.0.0): https://t.co/sdJHWAsVnP Man in Tree
+39,2016-23-03 04:10:03,RT @steveklabnik: This situation with the npm ecosystem is complex. I wrote up a timeline of events: https://t.co/3Qe1hwOY1y #npm #node #js
+40,2016-21-03 15:12:39,The not-so-secret history of Express https://t.co/PYRv3qeNF4 #express #node #nodejs #JavaScript
+41,2016-21-03 14:54:53,"@henningmus: There is another repo for JSON data sets: https://t.co/lW0Y5a8Xui 
+and another repo for such lists: https://t.co/R58FxS8sKH"
+42,2016-21-03 14:51:43,@oscar_b123 env variables are a good way to do that
+43,2016-17-03 23:28:17,"RT @_ericelliott: Favor `map()` over `forEach()` when you can. Avoid side-effects.
+#functional #JavaScript"
+44,2016-16-03 15:05:34,"RT @segdeha: On code schools and the plight of the junior developer.
+https://t.co/qcq5vSUyLX"
+45,2016-16-03 14:58:09,"RT @jensimmons: “HEY LOOK, IT'S EVERY BOOTSTRAP WEBSITE EVER”
 
-5: Is it because everyone there is nice…"
-14,2016-25-02 16:29:03,"@loserboy Our band is playing our first show tonight and we owe it to the dream of one day covering the Morning Show theme song, so thx John"
-15,2016-21-02 01:56:16,"Pushing to master
-
-No TDD this project
-
-Making me nervous
-
---Your dev haiku for the day &lt;3"
-16,2016-19-02 23:34:20,Done with all my correspondence before I'm even out of bed - the future is awesome.
-17,2016-19-02 09:19:17,No way I would ever be running this program right now.  Never.  Right now.  Promise. https://t.co/dQZzHulXC7
-18,2016-19-02 07:52:30,'Git Grinders': People who push pointless changes to master every day just for the little green boxes (and streakzzS)
-19,2016-16-02 08:56:57,"I talk about computers like mechanics talk about cars...
-
-'Dropped a five-hunnerd gig solid in that beast, she boots from cold in 5.6 sec.'"
-20,2016-15-02 23:36:56,"So adorable.  It'll probably last forever, probably. https://t.co/1ARd2NUJio"
-21,2016-06-02 22:48:36,This is fascinating - Visual Turing Test - https://t.co/UQusJYLh8j
-22,2016-06-02 02:25:03,"Hey, look, I made a thing!
-
-Looking through US Gov't APIs, I came across some 'interesting' data, so I made a map!
-
-https://t.co/BxvMhLzUFu"
-23,2016-31-01 04:08:43,"RT @SwiftOnSecurity: Adobe has an entire section on their website where they get all pissy about photoshop as a verb, and it's hilarious. h…"
-24,2016-22-01 07:42:14,"#AsAChildIUsedToThink that I could grow up to be whatever I wanted.
-
-I wanted to be a turtle."
-25,2016-16-01 08:24:50,"Dude, whoa.
-https://t.co/4tQNRfUWv6"
-26,2016-14-01 23:11:33,"Welcome to regex 101!  Your only lesson: '/./g'
-
-Or, match ALL THE THINGS!
-
-Congratulations, you have passed the class."
-27,2016-13-01 08:18:00,"Ermagherd, it's happening you guys!  #PhotonsLive @sunsetballard https://t.co/82LjisLpzc"
-28,2016-06-01 17:28:39,Can we get some entry level jobs in this B?  There aren't enough senior devs in the world to fill all these positions...
-29,2016-05-01 01:34:03,LIVE on #Periscope: music https://t.co/JTFVIruCJg
-30,2016-05-01 00:53:30,LIVE on #Periscope: Three bums with musics https://t.co/LeuaVEvbwv
-31,2016-04-01 21:00:19,@Microsoft PLEASE STOP trying to make me 'upgrade' to Windows 10 - I've used it and I don't want it - 7 is just fine
-32,2016-03-01 08:57:18,"RT @VeryLonelyLuke: When I told Han I was running away, he said 'I have a bad feeling about this'
-
-He says that about everything
-
-Once he s…"
-33,2016-03-01 08:56:59,"RT @VeryLonelyLuke: I haven't always been lonely.
-
-I used to have a pretty serious online girlfriend.
-
-Then I found out I was being catfish…"
-34,2016-03-01 08:56:18,"RT @VeryLonelyLuke: What do I miss most about people?
-
-Their beady eyes.
-
-Their twitchy noses.
-
-Their bushy tales.
-
-Their-
-
-Rabbits. I'm th…"
-35,2016-03-01 00:58:48,"Woo!  I'll officially be a TA for web dev 101 next week!  Maybe not a 'real' job (read: full-time), but it's still exciting :D"
-36,2015-31-12 21:12:01,"And just like that, first phone interview!  (I'm scurred)"
-37,2015-31-12 01:59:11,@IsabellaOrgan this is so much harder than actual programming
-38,2015-31-12 01:30:22,Sent out my first big batch of resumes today - Let the rejection letters flow
-39,2015-27-12 21:03:47,Building my portfolio today (follow my progress at https://t.co/Wag42Y24mM) and I'm hitting a pretty serious creative wall - any ideas?
-40,2015-25-12 19:09:21,"A note for UI designers: Don't use a swipe when a tap will do.  (Looking at you, @Windows )"
-41,2015-23-12 19:39:00,"RT @shayhowe: Shout out to @DexterLesaca for all of his hard work at @codefellows, and best of luck at IBM Dexter!"
-42,2015-22-12 23:20:51,"RT @IsabellaOrgan: Congratulations, guys!
-#javascript #node #MongoDB #ExpressJS #AngularJS 
-#FullStack #codefellows 
-Happy holidays! https:…"
-43,2015-22-12 22:06:51,All done @codefellows !  I'm gonna go watch Star Wars
-44,2015-22-12 16:32:28,Final project... Check.  Coffee... Check.  Lucky underwear... Check.  Let's do this
-45,2015-20-12 05:07:00,"WOOOOOOOOO!!!!
-
-(2 days looking at one problem - just solved it)
-
-WOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!1"
-46,2015-18-12 07:04:28,New Today: Photons I https://t.co/oaUoqFDBKb on #SoundCloud
-47,2015-17-12 17:49:25,RT @MarcosBL: Pair Programming https://t.co/hUCUAdi7dU
-48,2015-17-12 06:28:57,"https://t.co/SMSshikpcN
-
-Or, watch these kids play Instant Karma in 6 seconds"
-49,2015-17-12 00:23:38,Authentication is my bitch today :D
-50,2015-16-12 01:29:01,"RT @IsabellaOrgan: Last day of class for Full-Stack JS Dev Accelerator. 
-Project Week in full force tomorrow.
-1 week left. WHOA.
-@codefello…"
-51,2015-15-12 20:48:09,@IsabellaOrgan @geekwire I've been using it for a few months - totally awesome when Travis is trying to build 200x per day
-52,2015-12-12 01:20:21,"I just love being on hold for half an hour only to be told, 'we can't help you, sry!' ... OK fuck you, too!"
-53,2015-11-12 22:50:19,"So with about 1 week left in our @codefellows JS DA, the job search is on all of our minds - anyone have tips for software devs on the hunt?"
-54,2015-10-12 05:58:04,So close...!  :) https://t.co/KcZBHVT6yA
-55,2015-10-12 02:20:25,"Going to see @TheDandyWarhols tonight at the @ShowboxPresents with the man, the legend, Ken Goodrich!  So excited, thx for the tix, Ken!"
-56,2015-09-12 19:04:00,RT @kexp: Historic first song played for @KEXPNewHome: @RobynHitchcock's 'Viva Sea-Tac'! https://t.co/wAntQhmBI9
-57,2015-08-12 20:53:55,Reposting this because new features and I'm proud of my baby - and it works on (most) smartphones now!  https://t.co/vs1Y8zZqCt
-58,2015-08-12 03:21:45,LIVE on #Periscope: Geeks with Guitars https://t.co/QJ7Rzkt6EN
-59,2015-08-12 02:07:06,Raspberry Pi Zero vs Elliott 405 - I never cease to be amazed at how far we've come as a species https://t.co/Lb4bUUgfSH
-60,2015-06-12 22:57:44,I talk to myself a lot when I'm home alone...  Always afraid someone will walk in the door to a full blown conversation.
-61,2015-06-12 19:38:29,*Shameless self-promotion:*  My HTML Canvas touch control tutorial is done!  Thx @mozilla for all the Snake https://t.co/2EVEIepmtC
-62,2015-06-12 11:45:29,RT @TheSpencerPerry: The internet in a nutshell. http://t.co/mUU791E5iO
-63,2015-06-12 10:20:40,Do you ever use the &lt;canvas&gt; in HTML?  Do you like smartphones?  Touch your buttons and read this!  https://t.co/I8h1DdjtoR
-64,2015-06-12 05:19:51,@Sarah_June12 But how is it lit when Charlie Brown has the plug..??  I knew it - Snoopy's magic
-65,2015-04-12 02:39:20,"'Oh, still loading after five seconds?  K bai'"
-66,2015-04-12 02:37:49,"After writing fast, efficient code all day, going home and browsing through garbage website links (thx Facebook) is all the more infuriating"
-67,2015-02-12 21:44:58,Flexbox Froggy - learn your fancy CSS tricks :D https://t.co/kENxbtISrz via @thomashpark
-68,2015-29-11 04:32:46,Also there are no instructions - good luck
-69,2015-29-11 04:30:06,"Bet you can't beat my high score
-It's 26.
-Suck it"
-70,2015-29-11 04:22:15,I made a game!  It's pretty dumb and very easy (until it's impossible and you have to F5 ;) but it only took 2 days https://t.co/eImmHVoyQ5
-71,2015-28-11 18:58:03,"Know why there's no Windows 9?
-
-Because seven eight nine!
-
-I'll see myself out."
-72,2015-27-11 06:03:09,"RT @nihilist_arbys: You sit alone in arbys, face shiny with grease and tears. Your family is thankful you're no longer around. 
-Happy thank…"
-73,2015-24-11 02:21:48,"After learning about encryption in class, this seems very appropriate.  It's not some scary mystery! https://t.co/7h2LObatrW via @infoworld"
-74,2015-23-11 20:04:29,"RT @IsabellaOrgan: The Halfway Mark
-https://t.co/17GLl9Hdwd
-@codefellows #javascript #nodejs #MongoDB"
-75,2015-20-11 12:38:20,"Oh shit, WHAT time is it?  #ProjectWeek @codefellows thx for this."
-76,2015-20-11 07:03:10,"If I have to read the words 'authentication and authorization' one more time, I'm going to author a new hole in my computer."
-77,2015-19-11 02:16:05,That moment when you actively take a bug and turn it into a great new feature :D - I AM regular expressions
-78,2015-17-11 05:04:47,Just learned what #AngularJS does - where have you been all my life?
-79,2015-17-11 01:36:46,"Always remember Jake the Dog, fellow @codefellows students - 'Dude, sucking at something is the first step to being sorta good at something'"
-80,2015-15-11 04:38:42,"Knee deep in the jungles of jQuery, express, mongo and html, the warrior stands triumphant, as his &lt;table&gt; will be full this night."
-81,2015-13-11 19:26:53,And so begins project week #1 @codefellows - I'm already stressed
-82,2015-11-11 23:28:55,Got 'em https://t.co/Zqs5Qv77if
-83,2015-11-11 20:05:56,"Oooooh, #ShotsFired - shame they're both worse than a real computer anyway https://t.co/CysaAtHJmw"
-84,2015-11-11 17:29:48,"If I have to read about red cups one more time, I'm throwing the internet away. Is that what you want, America? I will TURN THIS CAR AROUND"
-85,2015-11-11 06:59:34,All your database are belong to us #MongoDB
-86,2015-11-11 06:01:43,RT @joshualund: I had to turn in my Career Development spreadsheet at work last week. HR hasn't said a thing yet. http://t.co/RT9yDRSffy
-87,2015-07-11 04:31:21,"Or, how I learned to stop worrying and love the test https://t.co/cSgmlEQvr7"
-88,2015-07-11 01:09:21,Just what IS a Waffle?  #GitHub: https://t.co/CsSJML6Gdf
-89,2015-06-11 20:01:36,RT @kulpreetvirdi: https://t.co/5tgF6qBgOb
-90,2015-06-11 00:21:04,RT @JoshGreenK5: Anonymous group protests near Amazon campus in Seattle. https://t.co/y9zaNrJyDK
-91,2015-05-11 19:35:53,"@CrowdHaiku As a web-developer-in-training, I just LOVE your website - I hope you don't mind if I try to make a limmerick version :D"
-92,2015-05-11 17:50:28,"Ohhh man, this song always comes on at exactly the right time.  So smooth https://t.co/VE0Fmpw8Ms
- #pandora"
-93,2015-04-11 20:23:25,"https://t.co/qpuNd5nr8A
-Always suspected this was happening - your tax dollars at work, ladies and gentlemen."
-94,2015-02-11 20:25:55,RT @seattletimes: .@MayorEdMurray called homelessness a growing crisis -- among worst in history of #Seattle https://t.co/sOqOHIKSCH https:…
-95,2015-31-10 05:24:04,First week down @codefellows!  Rarely have I felt so accomplished - this life ain't easy
-96,2015-21-10 22:23:25,LIVE on #Periscope: Wednesday Guitar https://t.co/prwIBPERtK
-97,2015-21-10 18:10:17,New Today: Hot Sub VIII https://t.co/bdYpps1AXU on #SoundCloud
-98,2015-19-10 03:07:46,LIVE on #Periscope: two beards and a baby face playing some tunes https://t.co/VJBMNybUUB
-99,2015-19-10 02:54:32,"LIVE on #Periscope: Photons live in a blue ass basement
- https://t.co/aopg38B0I0"
-100,2015-19-10 02:20:16,LIVE on #Periscope: Music with The Photons https://t.co/2qfgBnQYvU
-101,2015-10-10 00:46:48,LIVE on #Periscope: Music with The Photons https://t.co/CyzJ6UuTd2
-102,2015-25-09 23:23:13,LIVE on #Periscope: Music with The Photons https://t.co/xXl3ZRVagb
+https://t.co/05aBBuUUf3"
+46,2016-16-03 03:45:14,RT @luke_wagner: Hacks post with WebAssembly progress update: https://t.co/jDWhAW6Bu4
+47,2016-14-03 15:01:38,RT @evanhlucas: Looking to contribute to @nodejs? Look at these #goodfirstcontribution issues https://t.co/0ji1BLWJbc
+48,2016-14-03 15:00:55,"RT @RichRogersHDS: Programming is about 13% math, 15% theology and the rest is just looking stuff up on the internet - @GonzoHacker https:/…"
+49,2016-13-03 22:09:12,RT @codefellows: Seattle coding camps seen as fast track to high-paying jobs: https://t.co/MThurre5Al via @seattletimes https://t.co/7LTHFP…
+50,2016-13-03 22:06:11,@BNBuzz Please don't make me hate the Beatles by playing them over and over in your stores #Beatles  #BarnesandNoble #makeitstop
+51,2016-10-03 16:06:36,https://t.co/stb5wTHrNt high ping in real life #offandonagain #ping
+52,2016-10-03 05:24:22,RT @civictechsea: Wish list for @seattleparks data: features. What it will take on the city side: repurposing data from maintenance to appr…
+53,2016-10-03 05:19:23,RT @expo_Milano2015: @lmattyjaya • Albero della vita • #parte2 #milano #expo2015 #love #like4like #life #ingiro #instalove #insieme #dop… h…
+54,2016-10-03 02:37:13,Open Data meetup at @socrata ! #opendata #socrata https://t.co/Ke0sPz8VzI
+55,2016-09-03 15:40:23,jQuery 3 new features https://t.co/X6MsmHpcgi #jQuery #javascript #webdevelopment
+56,2016-09-03 02:31:39,New tech Seattle meetup at @galvanize ! https://t.co/OxuLFcqnF4
+57,2016-08-03 18:36:36,RT @ivanoats: 'It will be as unimaginable to future generations that we maintained our own servers'. https://t.co/MUShup6BiL by @obie

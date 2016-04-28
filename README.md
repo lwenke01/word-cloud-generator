@@ -40,6 +40,9 @@ Here is what the script changes the image output to:
 
 >![image output](/images/figure_1.png "post-script")
 
+
+##Using with TwitterBot
+
 ###Sources
 WordCloud Github: https://github.com/amueller/word_cloud
 TwitterBot: http://sebastianraschka.com/Articles/2014_twitter_wordcloud.html
